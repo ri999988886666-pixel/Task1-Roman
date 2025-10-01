@@ -62,6 +62,6 @@ Report Header
 my-new-project/
 └── 📄 README.md              # Основная документация
 🔗 ССЫЛКИ НА РЕСУРСЫ
-🌐 Репозиторий: https://github.com/ri999988886666-pixel/-my-new-project-Roman
+🌐 Репозиторий: https://github.com/ri999988886666-pixel/-my-new-project-Task001-Roman
 👥 Collaborator: Dedyretti
-📊 Статистика: коммитов-7, ветка-1, файлов-1
+📊 Статистика: коммитов-8, ветка-1, файлов-1
