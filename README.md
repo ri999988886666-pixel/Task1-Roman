@@ -63,5 +63,5 @@ my-new-project/
 └── 📄 README.md              # Основная документация
 🔗 ССЫЛКИ НА РЕСУРСЫ
 🌐 Репозиторий: https://github.com/ri999988886666-pixel/-my-new-project-Task001-Roman
-👥 Collaborator: Dedyretti
+👥 Collaborator: ri999988886666
 📊 Статистика: коммитов-11, ветка-1, файлов-1
