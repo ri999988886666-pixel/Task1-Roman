@@ -1,4 +1,4 @@
- # 🚀 My New Project
+# 🚀 My New Project
 
 <div align="center">
 
